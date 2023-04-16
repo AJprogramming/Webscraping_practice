@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 291fead9b00eda9d313351b87151bb69ad0e3882 Alec Arteaga <arteagajacob@gmail.com> 1676689959 -0800	commit (initial): learning to webscrape
+291fead9b00eda9d313351b87151bb69ad0e3882 d141cc14697a620eec7bcfec158f08e9b11697e9 Alec Arteaga <arteagajacob@gmail.com> 1677462421 -0800	commit: scraped one and multiple pages w BeautifulSoup
+d141cc14697a620eec7bcfec158f08e9b11697e9 918642ac812292d1f30c506c9124adb26fb405d3 Alec Arteaga <arteagajacob@gmail.com> 1679246429 -0700	commit: pages I was able to scrap from target website
